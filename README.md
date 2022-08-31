@@ -46,9 +46,9 @@ Simply packet capture: "**"
   ``` 
 >Throughout the process we have various messages, showing what's being written on the CMD and the output of the same. Making the application as transparant as possible to the end user.
 
-##### Initial Pop up with Netsh command inserted on the CMD.
+##### Initial Pop up with pktmon command inserted on the CMD.
+![Screenshot_3](https://user-images.githubusercontent.com/110167869/187643702-56f936ca-ce22-40b4-b0ef-e4f5f9b9a866.png)
 
- ![image](https://user-images.githubusercontent.com/110167869/182665480-6d5de6f1-27a0-4ff6-8089-2d55d87dcc5d.png)
 
  
 ##### After concluding the TCP connections:
@@ -58,14 +58,16 @@ Normal : 10 TCP connections.
 Circular: Loop until it finds an issue, if one connection fails, it will do 15 more TCP connections and conclude the proccess.
 ```
   
-##### Pop up indicating Netsh packet stopped and files generated.
+##### Pop up indicating pktmon capture stopped and files generated.
   
- ![image](https://user-images.githubusercontent.com/110167869/182665526-0eb8bd7a-9450-4207-8a8a-ac1c5c81419b.png)
+![Screenshot_4](https://user-images.githubusercontent.com/110167869/187643639-ac4492a1-4079-4bfb-b725-41047c12b8dd.png)
+
 
  
 ##### Pop up indicating file conversion from Etl to Pcapng.
   
- ![image](https://user-images.githubusercontent.com/110167869/182665553-a66feca9-0bcb-4d16-ad01-b7781099a6d4.png)
+![Screenshot_5](https://user-images.githubusercontent.com/110167869/187643522-f30f0a92-4520-4514-8af0-a4f69d8803be.png)
+
 
 
 ### After this, if you reach your output folder, you’ll be able to find the following:
