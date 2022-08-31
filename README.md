@@ -72,7 +72,8 @@ Circular: Loop until it finds an issue, if one connection fails, it will do 15 m
 
 ### After this, if you reach your output folder, you’ll be able to find the following:
 
-![image](https://user-images.githubusercontent.com/110167869/182665598-f6f00a78-196f-45a0-83f0-2301e624a624.png)
+![Screenshot_6](https://user-images.githubusercontent.com/110167869/187643860-b2c882bc-d72a-49d3-bb14-e14182487dff.png)
+
                                                                                                         
 -------
   
