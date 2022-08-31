@@ -95,6 +95,9 @@ Circular: Loop until it finds an issue, if one connection fails, it will do 15 m
 ****
 
 ## FAQ
+#### What is the difference from the V1 to V2 of NetworkLogger?
+>The V1 will use NETSH for the packet capture, while the V2 is using pktmon.
+
 #### What is used to generate the packet captures?
 > pktmon is used to packet capture via CMD.
  
