@@ -8,8 +8,8 @@
 ### Simple tutorial on how to work with NetworkLogger.
 
 #### The folder will have the following files:
+![Screenshot_2](https://user-images.githubusercontent.com/110167869/187642875-d44ca28a-4ee5-44ef-9f92-19f003eb64f8.png)
 
- ![image](https://user-images.githubusercontent.com/110167869/182664997-c2cb6b01-15c8-465e-a8f3-5a7596acec68.png)
 
 
 #### We can then open the highlighted “NetworkLogger.exe” file that would lead us to the following window:
